@@ -8,5 +8,5 @@ puts "Hi! I'm HAL, what's your name?"
 "name"="Don"
 
 def input
-  gets.strip "name"
+  gets "name"
 end
