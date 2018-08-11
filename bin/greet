@@ -4,5 +4,6 @@ require_relative "../lib/greeting.rb"
 # code your CLI here!
 
   puts "Hi! I'm #{name="HAL"}, what's your name?"
-  name="Don"
+  puts "Hello #{name2}. It's nice to meet you."
+  name2="Don"
   gets.strip
